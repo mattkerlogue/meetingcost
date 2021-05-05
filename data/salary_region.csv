@@ -1,0 +1,91 @@
+region,grade,value
+North East,scs,82700
+North East,g6g7,51050
+North East,seoheo,32430
+North East,eo,26890
+North East,aoaa,20500
+North East,total,24820
+North West,scs,83860
+North West,g6g7,51960
+North West,seoheo,32790
+North West,eo,26890
+North West,aoaa,20500
+North West,total,25670
+Yorkshire and The Humber,scs,79720
+Yorkshire and The Humber,g6g7,52080
+Yorkshire and The Humber,seoheo,33450
+Yorkshire and The Humber,eo,26710
+Yorkshire and The Humber,aoaa,20500
+Yorkshire and The Humber,total,26890
+East Midlands,scs,86260
+East Midlands,g6g7,53110
+East Midlands,seoheo,33390
+East Midlands,eo,26890
+East Midlands,aoaa,20500
+East Midlands,total,26220
+West Midlands,scs,90820
+West Midlands,g6g7,53110
+West Midlands,seoheo,33450
+West Midlands,eo,26890
+West Midlands,aoaa,20500
+West Midlands,total,26890
+East of England,scs,95800
+East of England,g6g7,53710
+East of England,seoheo,34330
+East of England,eo,26890
+East of England,aoaa,21020
+East of England,total,27530
+London,scs,81730
+London,g6g7,57440
+London,seoheo,37000
+London,eo,28790
+London,aoaa,24460
+London,total,36180
+South East,scs,89860
+South East,g6g7,53110
+South East,seoheo,34500
+South East,eo,26890
+South East,aoaa,21170
+South East,total,27850
+South West,scs,89130
+South West,g6g7,53110
+South West,seoheo,34850
+South West,eo,25970
+South West,aoaa,20500
+South West,total,30370
+England,scs,82720
+England,g6g7,55650
+England,seoheo,35110
+England,eo,26890
+England,aoaa,20570
+England,total,28650
+Wales,scs,78960
+Wales,g6g7,59040
+Wales,seoheo,36500
+Wales,eo,26860
+Wales,aoaa,20500
+Wales,total,26130
+Scotland,scs,80810
+Scotland,g6g7,59230
+Scotland,seoheo,34950
+Scotland,eo,26890
+Scotland,aoaa,20500
+Scotland,total,26890
+Northern Ireland,scs,76980
+Northern Ireland,g6g7,51050
+Northern Ireland,seoheo,31580
+Northern Ireland,eo,24820
+Northern Ireland,aoaa,19550
+Northern Ireland,total,24820
+Overseas,scs,74530
+Overseas,g6g7,56380
+Overseas,seoheo,34420
+Overseas,eo,26650
+Overseas,aoaa,22550
+Overseas,total,40610
+All employees,scs,81440
+All employees,g6g7,56020
+All employees,seoheo,35110
+All employees,eo,26890
+All employees,aoaa,20500
+All employees,total,28180

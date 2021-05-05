@@ -1,0 +1,655 @@
+dept,grade,annual_salary,hourly_rate,grade_label
+Attorney General's Office,scs,73580,44.99,SCS
+Attorney General's Office,g6g7,63100,38.58,Grade 6/Grade 7
+Attorney General's Office,seoheo,35040,21.43,SEO/HEO
+Attorney General's Office,eo,26680,16.31,EO
+Attorney General's Office,aoaa,NA,NA,AO/AA
+Attorney General's Office,total,50000,30.57,Unknown
+Crown Prosecution Service,scs,92540,56.59,SCS
+Crown Prosecution Service,g6g7,54790,33.5,Grade 6/Grade 7
+Crown Prosecution Service,seoheo,35710,21.84,SEO/HEO
+Crown Prosecution Service,eo,28020,17.13,EO
+Crown Prosecution Service,aoaa,21410,13.09,AO/AA
+Crown Prosecution Service,total,37220,22.76,Unknown
+Crown Prosecution Service Inspectorate,scs,NA,NA,SCS
+Crown Prosecution Service Inspectorate,g6g7,61730,37.75,Grade 6/Grade 7
+Crown Prosecution Service Inspectorate,seoheo,NA,NA,SEO/HEO
+Crown Prosecution Service Inspectorate,eo,NA,NA,EO
+Crown Prosecution Service Inspectorate,aoaa,NA,NA,AO/AA
+Crown Prosecution Service Inspectorate,total,57760,35.32,Unknown
+Government Legal Department,scs,78570,48.04,SCS
+Government Legal Department,g6g7,57800,35.34,Grade 6/Grade 7
+Government Legal Department,seoheo,37360,22.84,SEO/HEO
+Government Legal Department,eo,26910,16.45,EO
+Government Legal Department,aoaa,23270,14.23,AO/AA
+Government Legal Department,total,51240,31.33,Unknown
+Serious Fraud Office,scs,88340,54.02,SCS
+Serious Fraud Office,g6g7,58390,35.7,Grade 6/Grade 7
+Serious Fraud Office,seoheo,36220,22.15,SEO/HEO
+Serious Fraud Office,eo,26410,16.15,EO
+Serious Fraud Office,aoaa,23490,14.36,AO/AA
+Serious Fraud Office,total,40000,24.46,Unknown
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",scs,74810,45.74,SCS
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",g6g7,56310,34.43,Grade 6/Grade 7
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",seoheo,37080,22.67,SEO/HEO
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",eo,27020,16.52,EO
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",aoaa,24300,14.86,AO/AA
+"Department for Business, Energy and Industrial Strategy (excl. agencies)",total,47800,29.23,Unknown
+"Advisory, Conciliation and Arbitration Service",scs,82730,50.59,SCS
+"Advisory, Conciliation and Arbitration Service",g6g7,56000,34.24,Grade 6/Grade 7
+"Advisory, Conciliation and Arbitration Service",seoheo,33390,20.42,SEO/HEO
+"Advisory, Conciliation and Arbitration Service",eo,22770,13.92,EO
+"Advisory, Conciliation and Arbitration Service",aoaa,20180,12.34,AO/AA
+"Advisory, Conciliation and Arbitration Service",total,29270,17.9,Unknown
+Companies House,scs,76240,46.62,SCS
+Companies House,g6g7,55020,33.64,Grade 6/Grade 7
+Companies House,seoheo,37720,23.06,SEO/HEO
+Companies House,eo,25770,15.76,EO
+Companies House,aoaa,21000,12.84,AO/AA
+Companies House,total,23550,14.4,Unknown
+Insolvency Service,scs,90200,55.15,SCS
+Insolvency Service,g6g7,56960,34.83,Grade 6/Grade 7
+Insolvency Service,seoheo,38310,23.43,SEO/HEO
+Insolvency Service,eo,25710,15.72,EO
+Insolvency Service,aoaa,20470,12.52,AO/AA
+Insolvency Service,total,29070,17.78,Unknown
+Met Office,scs,80950,49.5,SCS
+Met Office,g6g7,47540,29.07,Grade 6/Grade 7
+Met Office,seoheo,38870,23.77,SEO/HEO
+Met Office,eo,25120,15.36,EO
+Met Office,aoaa,20250,12.38,AO/AA
+Met Office,total,38870,23.77,Unknown
+UK Intellectual Property Office,scs,73250,44.79,SCS
+UK Intellectual Property Office,g6g7,59720,36.52,Grade 6/Grade 7
+UK Intellectual Property Office,seoheo,39540,24.18,SEO/HEO
+UK Intellectual Property Office,eo,26920,16.46,EO
+UK Intellectual Property Office,aoaa,21140,12.93,AO/AA
+UK Intellectual Property Office,total,34590,21.15,Unknown
+UK Space Agency,scs,74350,45.46,SCS
+UK Space Agency,g6g7,52300,31.98,Grade 6/Grade 7
+UK Space Agency,seoheo,36340,22.22,SEO/HEO
+UK Space Agency,eo,24100,14.74,EO
+UK Space Agency,aoaa,NA,NA,AO/AA
+UK Space Agency,total,41640,25.46,Unknown
+Cabinet Office (excl. agencies),scs,81590,49.89,SCS
+Cabinet Office (excl. agencies),g6g7,54470,33.31,Grade 6/Grade 7
+Cabinet Office (excl. agencies),seoheo,32000,19.57,SEO/HEO
+Cabinet Office (excl. agencies),eo,26000,15.9,EO
+Cabinet Office (excl. agencies),aoaa,19890,12.16,AO/AA
+Cabinet Office (excl. agencies),total,36970,22.61,Unknown
+Crown Commercial Service,scs,81100,49.59,SCS
+Crown Commercial Service,g6g7,55000,33.63,Grade 6/Grade 7
+Crown Commercial Service,seoheo,34800,21.28,SEO/HEO
+Crown Commercial Service,eo,22640,13.84,EO
+Crown Commercial Service,aoaa,18870,11.54,AO/AA
+Crown Commercial Service,total,34800,21.28,Unknown
+Government in Parliament,scs,78500,48,SCS
+Government in Parliament,g6g7,55580,33.99,Grade 6/Grade 7
+Government in Parliament,seoheo,34000,20.79,SEO/HEO
+Government in Parliament,eo,26970,16.49,EO
+Government in Parliament,aoaa,22650,13.85,AO/AA
+Government in Parliament,total,66700,40.79,Unknown
+Government Property Agency,scs,80280,49.09,SCS
+Government Property Agency,g6g7,52550,32.13,Grade 6/Grade 7
+Government Property Agency,seoheo,34140,20.88,SEO/HEO
+Government Property Agency,eo,25940,15.86,EO
+Government Property Agency,aoaa,NA,NA,AO/AA
+Government Property Agency,total,47340,28.95,Unknown
+Government Actuary's Department,scs,NA,NA,SCS
+Government Actuary's Department,g6g7,80820,49.42,Grade 6/Grade 7
+Government Actuary's Department,seoheo,39000,23.85,SEO/HEO
+Government Actuary's Department,eo,27540,16.84,EO
+Government Actuary's Department,aoaa,21440,13.11,AO/AA
+Government Actuary's Department,total,57360,35.07,Unknown
+National Savings and Investments,scs,94930,58.05,SCS
+National Savings and Investments,g6g7,55990,34.24,Grade 6/Grade 7
+National Savings and Investments,seoheo,40620,24.84,SEO/HEO
+National Savings and Investments,eo,30600,18.71,EO
+National Savings and Investments,aoaa,23550,14.4,AO/AA
+National Savings and Investments,total,45210,27.64,Unknown
+Charity Commission,scs,87160,53.3,SCS
+Charity Commission,g6g7,51870,31.72,Grade 6/Grade 7
+Charity Commission,seoheo,29620,18.11,SEO/HEO
+Charity Commission,eo,23680,14.48,EO
+Charity Commission,aoaa,19070,11.66,AO/AA
+Charity Commission,total,28260,17.28,Unknown
+"Ministry of Housing, Communities and Local Government (excl. agencies)",scs,74180,45.36,SCS
+"Ministry of Housing, Communities and Local Government (excl. agencies)",g6g7,52610,32.17,Grade 6/Grade 7
+"Ministry of Housing, Communities and Local Government (excl. agencies)",seoheo,34090,20.85,SEO/HEO
+"Ministry of Housing, Communities and Local Government (excl. agencies)",eo,27310,16.7,EO
+"Ministry of Housing, Communities and Local Government (excl. agencies)",aoaa,26340,16.11,AO/AA
+"Ministry of Housing, Communities and Local Government (excl. agencies)",total,38820,23.74,Unknown
+Planning Inspectorate,scs,104000,63.59,SCS
+Planning Inspectorate,g6g7,57940,35.43,Grade 6/Grade 7
+Planning Inspectorate,seoheo,34350,21,SEO/HEO
+Planning Inspectorate,eo,27120,16.58,EO
+Planning Inspectorate,aoaa,22230,13.59,AO/AA
+Planning Inspectorate,total,42880,26.22,Unknown
+Queen Elizabeth II Centre,scs,NA,NA,SCS
+Queen Elizabeth II Centre,g6g7,72000,44.03,Grade 6/Grade 7
+Queen Elizabeth II Centre,seoheo,38400,23.48,SEO/HEO
+Queen Elizabeth II Centre,eo,29080,17.78,EO
+Queen Elizabeth II Centre,aoaa,25850,15.81,AO/AA
+Queen Elizabeth II Centre,total,33950,20.76,Unknown
+Competition and Markets Authority,scs,98970,60.52,SCS
+Competition and Markets Authority,g6g7,61650,37.7,Grade 6/Grade 7
+Competition and Markets Authority,seoheo,34370,21.02,SEO/HEO
+Competition and Markets Authority,eo,27100,16.57,EO
+Competition and Markets Authority,aoaa,22190,13.57,AO/AA
+Competition and Markets Authority,total,54710,33.45,Unknown
+"Department for Digital, Culture, Media and Sport",scs,75300,46.04,SCS
+"Department for Digital, Culture, Media and Sport",g6g7,54350,33.23,Grade 6/Grade 7
+"Department for Digital, Culture, Media and Sport",seoheo,33470,20.47,SEO/HEO
+"Department for Digital, Culture, Media and Sport",eo,25720,15.73,EO
+"Department for Digital, Culture, Media and Sport",aoaa,23220,14.2,AO/AA
+"Department for Digital, Culture, Media and Sport",total,50350,30.79,Unknown
+Ministry of Defence,scs,80000,48.92,SCS
+Ministry of Defence,g6g7,55240,33.78,Grade 6/Grade 7
+Ministry of Defence,seoheo,34590,21.15,SEO/HEO
+Ministry of Defence,eo,25970,15.88,EO
+Ministry of Defence,aoaa,20370,12.46,AO/AA
+Ministry of Defence,total,26220,16.03,Unknown
+Defence Science and Technology Laboratory,scs,77250,47.24,SCS
+Defence Science and Technology Laboratory,g6g7,46720,28.57,Grade 6/Grade 7
+Defence Science and Technology Laboratory,seoheo,31660,19.36,SEO/HEO
+Defence Science and Technology Laboratory,eo,22780,13.93,EO
+Defence Science and Technology Laboratory,aoaa,17710,10.83,AO/AA
+Defence Science and Technology Laboratory,total,37320,22.82,Unknown
+Defence Electronics & Components Agency5,scs,68830,42.09,SCS
+Defence Electronics & Components Agency5,g6g7,NA,NA,Grade 6/Grade 7
+Defence Electronics & Components Agency5,seoheo,34250,20.94,SEO/HEO
+Defence Electronics & Components Agency5,eo,28750,17.58,EO
+Defence Electronics & Components Agency5,aoaa,21000,12.84,AO/AA
+Defence Electronics & Components Agency5,total,28750,17.58,Unknown
+Defence Equipment and Support,scs,94630,57.86,SCS
+Defence Equipment and Support,g6g7,54350,33.23,Grade 6/Grade 7
+Defence Equipment and Support,seoheo,34280,20.96,SEO/HEO
+Defence Equipment and Support,eo,21000,12.84,EO
+Defence Equipment and Support,aoaa,NA,NA,AO/AA
+Defence Equipment and Support,total,32660,19.97,Unknown
+Royal Fleet Auxiliary,scs,NA,NA,SCS
+Royal Fleet Auxiliary,g6g7,NA,NA,Grade 6/Grade 7
+Royal Fleet Auxiliary,seoheo,NA,NA,SEO/HEO
+Royal Fleet Auxiliary,eo,NA,NA,EO
+Royal Fleet Auxiliary,aoaa,NA,NA,AO/AA
+Royal Fleet Auxiliary,total,33490,20.48,Unknown
+Submarine Delivery Agency6,scs,NA,NA,SCS
+Submarine Delivery Agency6,g6g7,NA,NA,Grade 6/Grade 7
+Submarine Delivery Agency6,seoheo,NA,NA,SEO/HEO
+Submarine Delivery Agency6,eo,NA,NA,EO
+Submarine Delivery Agency6,aoaa,NA,NA,AO/AA
+Submarine Delivery Agency6,total,38980,23.84,Unknown
+UK Hydrographic Office,scs,NA,NA,SCS
+UK Hydrographic Office,g6g7,52240,31.94,Grade 6/Grade 7
+UK Hydrographic Office,seoheo,33340,20.39,SEO/HEO
+UK Hydrographic Office,eo,26000,15.9,EO
+UK Hydrographic Office,aoaa,19360,11.84,AO/AA
+UK Hydrographic Office,total,32370,19.79,Unknown
+Department for International Trade,scs,77120,47.16,SCS
+Department for International Trade,g6g7,52330,32,Grade 6/Grade 7
+Department for International Trade,seoheo,34860,21.32,SEO/HEO
+Department for International Trade,eo,25730,15.73,EO
+Department for International Trade,aoaa,24410,14.93,AO/AA
+Department for International Trade,total,39900,24.4,Unknown
+Department for Education,scs,73860,45.16,SCS
+Department for Education,g6g7,53480,32.7,Grade 6/Grade 7
+Department for Education,seoheo,36070,22.06,SEO/HEO
+Department for Education,eo,24560,15.02,EO
+Department for Education,aoaa,19890,12.16,AO/AA
+Department for Education,total,39790,24.33,Unknown
+Education and Skills Funding Agency,scs,77160,47.18,SCS
+Education and Skills Funding Agency,g6g7,52270,31.96,Grade 6/Grade 7
+Education and Skills Funding Agency,seoheo,36070,22.06,SEO/HEO
+Education and Skills Funding Agency,eo,24200,14.8,EO
+Education and Skills Funding Agency,aoaa,19850,12.14,AO/AA
+Education and Skills Funding Agency,total,36390,22.25,Unknown
+Institute for Apprenticeships and Technical Education,scs,83510,51.06,SCS
+Institute for Apprenticeships and Technical Education,g6g7,53170,32.51,Grade 6/Grade 7
+Institute for Apprenticeships and Technical Education,seoheo,36030,22.03,SEO/HEO
+Institute for Apprenticeships and Technical Education,eo,25830,15.79,EO
+Institute for Apprenticeships and Technical Education,aoaa,NA,NA,AO/AA
+Institute for Apprenticeships and Technical Education,total,49720,30.4,Unknown
+Standards and Testing Agency,scs,73880,45.18,SCS
+Standards and Testing Agency,g6g7,53230,32.55,Grade 6/Grade 7
+Standards and Testing Agency,seoheo,36240,22.16,SEO/HEO
+Standards and Testing Agency,eo,24240,14.82,EO
+Standards and Testing Agency,aoaa,NA,NA,AO/AA
+Standards and Testing Agency,total,36710,22.45,Unknown
+Teaching Regulation Agency,scs,NA,NA,SCS
+Teaching Regulation Agency,g6g7,49650,30.36,Grade 6/Grade 7
+Teaching Regulation Agency,seoheo,29480,18.03,SEO/HEO
+Teaching Regulation Agency,eo,23780,14.54,EO
+Teaching Regulation Agency,aoaa,19890,12.16,AO/AA
+Teaching Regulation Agency,total,29010,17.74,Unknown
+"Department for Environment, Food and Rural Affairs (excl. agencies)",scs,76180,46.58,SCS
+"Department for Environment, Food and Rural Affairs (excl. agencies)",g6g7,52540,32.13,Grade 6/Grade 7
+"Department for Environment, Food and Rural Affairs (excl. agencies)",seoheo,35540,21.73,SEO/HEO
+"Department for Environment, Food and Rural Affairs (excl. agencies)",eo,27420,16.77,EO
+"Department for Environment, Food and Rural Affairs (excl. agencies)",aoaa,23660,14.47,AO/AA
+"Department for Environment, Food and Rural Affairs (excl. agencies)",total,36930,22.58,Unknown
+Animal and Plant Health Agency,scs,80590,49.28,SCS
+Animal and Plant Health Agency,g6g7,53990,33.01,Grade 6/Grade 7
+Animal and Plant Health Agency,seoheo,36070,22.06,SEO/HEO
+Animal and Plant Health Agency,eo,26120,15.97,EO
+Animal and Plant Health Agency,aoaa,20430,12.49,AO/AA
+Animal and Plant Health Agency,total,27420,16.77,Unknown
+"Centre for Environment, Fisheries and Aquaculture Science",scs,NA,NA,SCS
+"Centre for Environment, Fisheries and Aquaculture Science",g6g7,47250,28.89,Grade 6/Grade 7
+"Centre for Environment, Fisheries and Aquaculture Science",seoheo,29700,18.16,SEO/HEO
+"Centre for Environment, Fisheries and Aquaculture Science",eo,23650,14.46,EO
+"Centre for Environment, Fisheries and Aquaculture Science",aoaa,19420,11.87,AO/AA
+"Centre for Environment, Fisheries and Aquaculture Science",total,29240,17.88,Unknown
+Rural Payments Agency,scs,73850,45.16,SCS
+Rural Payments Agency,g6g7,48670,29.76,Grade 6/Grade 7
+Rural Payments Agency,seoheo,30920,18.91,SEO/HEO
+Rural Payments Agency,eo,24550,15.01,EO
+Rural Payments Agency,aoaa,20430,12.49,AO/AA
+Rural Payments Agency,total,24430,14.94,Unknown
+Veterinary Medicines Directorate,scs,NA,NA,SCS
+Veterinary Medicines Directorate,g6g7,55170,33.73,Grade 6/Grade 7
+Veterinary Medicines Directorate,seoheo,38370,23.46,SEO/HEO
+Veterinary Medicines Directorate,eo,27740,16.96,EO
+Veterinary Medicines Directorate,aoaa,23660,14.47,AO/AA
+Veterinary Medicines Directorate,total,38370,23.46,Unknown
+ESTYN,scs,NA,NA,SCS
+ESTYN,g6g7,73360,44.86,Grade 6/Grade 7
+ESTYN,seoheo,36500,22.32,SEO/HEO
+ESTYN,eo,28150,17.21,EO
+ESTYN,aoaa,23250,14.22,AO/AA
+ESTYN,total,72910,44.58,Unknown
+Food Standards Agency,scs,83050,50.78,SCS
+Food Standards Agency,g6g7,53380,32.64,Grade 6/Grade 7
+Food Standards Agency,seoheo,35540,21.73,SEO/HEO
+Food Standards Agency,eo,26270,16.06,EO
+Food Standards Agency,aoaa,20980,12.83,AO/AA
+Food Standards Agency,total,31500,19.26,Unknown
+Foreign and Commonwealth Office (excl. agencies),scs,76270,46.64,SCS
+Foreign and Commonwealth Office (excl. agencies),g6g7,58400,35.71,Grade 6/Grade 7
+Foreign and Commonwealth Office (excl. agencies),seoheo,35800,21.89,SEO/HEO
+Foreign and Commonwealth Office (excl. agencies),eo,28750,17.58,EO
+Foreign and Commonwealth Office (excl. agencies),aoaa,27220,16.64,AO/AA
+Foreign and Commonwealth Office (excl. agencies),total,39020,23.86,Unknown
+FCO Services,scs,115050,70.35,SCS
+FCO Services,g6g7,57790,35.34,Grade 6/Grade 7
+FCO Services,seoheo,39900,24.4,SEO/HEO
+FCO Services,eo,26500,16.2,EO
+FCO Services,aoaa,22860,13.98,AO/AA
+FCO Services,total,35040,21.43,Unknown
+Wilton Park,scs,NA,NA,SCS
+Wilton Park,g6g7,56290,34.42,Grade 6/Grade 7
+Wilton Park,seoheo,33790,20.66,SEO/HEO
+Wilton Park,eo,25240,15.43,EO
+Wilton Park,aoaa,22410,13.7,AO/AA
+Wilton Park,total,25470,15.57,Unknown
+Department of Health and Social Care (excl. agencies),scs,75950,46.44,SCS
+Department of Health and Social Care (excl. agencies),g6g7,53530,32.73,Grade 6/Grade 7
+Department of Health and Social Care (excl. agencies),seoheo,35750,21.86,SEO/HEO
+Department of Health and Social Care (excl. agencies),eo,26470,16.19,EO
+Department of Health and Social Care (excl. agencies),aoaa,22250,13.61,AO/AA
+Department of Health and Social Care (excl. agencies),total,40500,24.76,Unknown
+Medicines and Healthcare Products Regulatory Agency,scs,83040,50.78,SCS
+Medicines and Healthcare Products Regulatory Agency,g6g7,53140,32.49,Grade 6/Grade 7
+Medicines and Healthcare Products Regulatory Agency,seoheo,39850,24.37,SEO/HEO
+Medicines and Healthcare Products Regulatory Agency,eo,26840,16.41,EO
+Medicines and Healthcare Products Regulatory Agency,aoaa,22980,14.05,AO/AA
+Medicines and Healthcare Products Regulatory Agency,total,41050,25.1,Unknown
+Public Health England,scs,107670,65.84,SCS
+Public Health England,g6g7,53640,32.8,Grade 6/Grade 7
+Public Health England,seoheo,36480,22.31,SEO/HEO
+Public Health England,eo,26410,16.15,EO
+Public Health England,aoaa,20860,12.76,AO/AA
+Public Health England,total,38760,23.7,Unknown
+HM Land Registry,scs,80380,49.15,SCS
+HM Land Registry,g6g7,58890,36.01,Grade 6/Grade 7
+HM Land Registry,seoheo,31700,19.38,SEO/HEO
+HM Land Registry,eo,25250,15.44,EO
+HM Land Registry,aoaa,20660,12.63,AO/AA
+HM Land Registry,total,25250,15.44,Unknown
+HM Revenue and Customs,scs,79580,48.66,SCS
+HM Revenue and Customs,g6g7,54730,33.47,Grade 6/Grade 7
+HM Revenue and Customs,seoheo,32550,19.9,SEO/HEO
+HM Revenue and Customs,eo,24820,15.18,EO
+HM Revenue and Customs,aoaa,19550,11.95,AO/AA
+HM Revenue and Customs,total,25120,15.36,Unknown
+Valuation Office Agency,scs,81040,49.55,SCS
+Valuation Office Agency,g6g7,55810,34.13,Grade 6/Grade 7
+Valuation Office Agency,seoheo,37000,22.62,SEO/HEO
+Valuation Office Agency,eo,24960,15.26,EO
+Valuation Office Agency,aoaa,20170,12.33,AO/AA
+Valuation Office Agency,total,29250,17.89,Unknown
+HM Treasury,scs,76770,46.94,SCS
+HM Treasury,g6g7,55360,33.85,Grade 6/Grade 7
+HM Treasury,seoheo,32000,19.57,SEO/HEO
+HM Treasury,eo,26160,16,EO
+HM Treasury,aoaa,22500,13.76,AO/AA
+HM Treasury,total,51000,31.19,Unknown
+Debt Management Office,scs,NA,NA,SCS
+Debt Management Office,g6g7,65710,40.18,Grade 6/Grade 7
+Debt Management Office,seoheo,40000,24.46,SEO/HEO
+Debt Management Office,eo,28860,17.65,EO
+Debt Management Office,aoaa,NA,NA,AO/AA
+Debt Management Office,total,52100,31.86,Unknown
+Government Internal Audit Agency,scs,86430,52.85,SCS
+Government Internal Audit Agency,g6g7,55840,34.14,Grade 6/Grade 7
+Government Internal Audit Agency,seoheo,39280,24.02,SEO/HEO
+Government Internal Audit Agency,eo,26740,16.35,EO
+Government Internal Audit Agency,aoaa,NA,NA,AO/AA
+Government Internal Audit Agency,total,44620,27.28,Unknown
+National Infrastructure Commission,scs,NA,NA,SCS
+National Infrastructure Commission,g6g7,61930,37.87,Grade 6/Grade 7
+National Infrastructure Commission,seoheo,38680,23.65,SEO/HEO
+National Infrastructure Commission,eo,NA,NA,EO
+National Infrastructure Commission,aoaa,NA,NA,AO/AA
+National Infrastructure Commission,total,51190,31.3,Unknown
+Office for Budget Responsibility,scs,NA,NA,SCS
+Office for Budget Responsibility,g6g7,57010,34.86,Grade 6/Grade 7
+Office for Budget Responsibility,seoheo,35940,21.98,SEO/HEO
+Office for Budget Responsibility,eo,NA,NA,EO
+Office for Budget Responsibility,aoaa,NA,NA,AO/AA
+Office for Budget Responsibility,total,52380,32.03,Unknown
+Home Office,scs,81520,49.85,SCS
+Home Office,g6g7,56300,34.43,Grade 6/Grade 7
+Home Office,seoheo,34530,21.11,SEO/HEO
+Home Office,eo,25650,15.68,EO
+Home Office,aoaa,21010,12.85,AO/AA
+Home Office,total,27240,16.66,Unknown
+Department for International Development,scs,77190,47.2,SCS
+Department for International Development,g6g7,55250,33.78,Grade 6/Grade 7
+Department for International Development,seoheo,37500,22.93,SEO/HEO
+Department for International Development,eo,25260,15.45,EO
+Department for International Development,aoaa,20690,12.65,AO/AA
+Department for International Development,total,51500,31.49,Unknown
+Ministry of Justice (excl. agencies),scs,81700,49.96,SCS
+Ministry of Justice (excl. agencies),g6g7,58130,35.54,Grade 6/Grade 7
+Ministry of Justice (excl. agencies),seoheo,36800,22.5,SEO/HEO
+Ministry of Justice (excl. agencies),eo,26410,16.15,EO
+Ministry of Justice (excl. agencies),aoaa,20120,12.3,AO/AA
+Ministry of Justice (excl. agencies),total,36810,22.51,Unknown
+Criminal Injuries Compensation Authority,scs,NA,NA,SCS
+Criminal Injuries Compensation Authority,g6g7,58000,35.47,Grade 6/Grade 7
+Criminal Injuries Compensation Authority,seoheo,29870,18.26,SEO/HEO
+Criminal Injuries Compensation Authority,eo,22710,13.89,EO
+Criminal Injuries Compensation Authority,aoaa,19970,12.21,AO/AA
+Criminal Injuries Compensation Authority,total,22570,13.8,Unknown
+Her Majesty's Courts and Tribunals Service,scs,80000,48.92,SCS
+Her Majesty's Courts and Tribunals Service,g6g7,56270,34.41,Grade 6/Grade 7
+Her Majesty's Courts and Tribunals Service,seoheo,33800,20.67,SEO/HEO
+Her Majesty's Courts and Tribunals Service,eo,23970,14.66,EO
+Her Majesty's Courts and Tribunals Service,aoaa,19930,12.19,AO/AA
+Her Majesty's Courts and Tribunals Service,total,21170,12.94,Unknown
+Legal Aid Agency,scs,74820,45.75,SCS
+Legal Aid Agency,g6g7,56080,34.29,Grade 6/Grade 7
+Legal Aid Agency,seoheo,35000,21.4,SEO/HEO
+Legal Aid Agency,eo,22570,13.8,EO
+Legal Aid Agency,aoaa,19930,12.19,AO/AA
+Legal Aid Agency,total,22570,13.8,Unknown
+Her Majesty's Prison and Probation Service,scs,94120,57.55,SCS
+Her Majesty's Prison and Probation Service,g6g7,69810,42.69,Grade 6/Grade 7
+Her Majesty's Prison and Probation Service,seoheo,37230,22.77,SEO/HEO
+Her Majesty's Prison and Probation Service,eo,30840,18.86,EO
+Her Majesty's Prison and Probation Service,aoaa,24780,15.15,AO/AA
+Her Majesty's Prison and Probation Service,total,28660,17.52,Unknown
+Office of the Public Guardian,scs,NA,NA,SCS
+Office of the Public Guardian,g6g7,48350,29.56,Grade 6/Grade 7
+Office of the Public Guardian,seoheo,26560,16.24,SEO/HEO
+Office of the Public Guardian,eo,22570,13.8,EO
+Office of the Public Guardian,aoaa,19930,12.19,AO/AA
+Office of the Public Guardian,total,19930,12.19,Unknown
+The National Archives,scs,89200,54.54,SCS
+The National Archives,g6g7,50000,30.57,Grade 6/Grade 7
+The National Archives,seoheo,33260,20.34,SEO/HEO
+The National Archives,eo,24590,15.04,EO
+The National Archives,aoaa,19870,12.15,AO/AA
+The National Archives,total,31550,19.29,Unknown
+National Crime Agency,scs,96340,58.91,SCS
+National Crime Agency,g6g7,59520,36.39,Grade 6/Grade 7
+National Crime Agency,seoheo,44250,27.06,SEO/HEO
+National Crime Agency,eo,33760,20.64,EO
+National Crime Agency,aoaa,23620,14.44,AO/AA
+National Crime Agency,total,37190,22.74,Unknown
+Northern Ireland Office,scs,79640,48.7,SCS
+Northern Ireland Office,g6g7,52850,32.32,Grade 6/Grade 7
+Northern Ireland Office,seoheo,34990,21.4,SEO/HEO
+Northern Ireland Office,eo,25820,15.79,EO
+Northern Ireland Office,aoaa,21660,13.24,AO/AA
+Northern Ireland Office,total,40310,24.65,Unknown
+"Office for Standards in Education, Children's Services and Skills",scs,95240,58.24,SCS
+"Office for Standards in Education, Children's Services and Skills",g6g7,74120,45.32,Grade 6/Grade 7
+"Office for Standards in Education, Children's Services and Skills",seoheo,42070,25.72,SEO/HEO
+"Office for Standards in Education, Children's Services and Skills",eo,25360,15.51,EO
+"Office for Standards in Education, Children's Services and Skills",aoaa,20740,12.68,AO/AA
+"Office for Standards in Education, Children's Services and Skills",total,50450,30.85,Unknown
+Office of Gas and Electricity Markets,scs,94420,57.74,SCS
+Office of Gas and Electricity Markets,g6g7,57770,35.32,Grade 6/Grade 7
+Office of Gas and Electricity Markets,seoheo,35330,21.6,SEO/HEO
+Office of Gas and Electricity Markets,eo,25600,15.65,EO
+Office of Gas and Electricity Markets,aoaa,19750,12.08,AO/AA
+Office of Gas and Electricity Markets,total,39930,24.42,Unknown
+Office of Rail and Road,scs,96460,58.98,SCS
+Office of Rail and Road,g6g7,61200,37.42,Grade 6/Grade 7
+Office of Rail and Road,seoheo,41830,25.58,SEO/HEO
+Office of Rail and Road,eo,29280,17.9,EO
+Office of Rail and Road,aoaa,22800,13.94,AO/AA
+Office of Rail and Road,total,53820,32.91,Unknown
+Ofqual,scs,86160,52.68,SCS
+Ofqual,g6g7,48100,29.41,Grade 6/Grade 7
+Ofqual,seoheo,35000,21.4,SEO/HEO
+Ofqual,eo,23540,14.39,EO
+Ofqual,aoaa,20230,12.37,AO/AA
+Ofqual,total,41210,25.2,Unknown
+Scotland Office (incl. Office of the Advocate General for Scotland),scs,80810,49.41,SCS
+Scotland Office (incl. Office of the Advocate General for Scotland),g6g7,59230,36.22,Grade 6/Grade 7
+Scotland Office (incl. Office of the Advocate General for Scotland),seoheo,36800,22.5,SEO/HEO
+Scotland Office (incl. Office of the Advocate General for Scotland),eo,26410,16.15,EO
+Scotland Office (incl. Office of the Advocate General for Scotland),aoaa,19980,12.22,AO/AA
+Scotland Office (incl. Office of the Advocate General for Scotland),total,47500,29.04,Unknown
+Scottish Government (excl. agencies),scs,80810,49.41,SCS
+Scottish Government (excl. agencies),g6g7,59230,36.22,Grade 6/Grade 7
+Scottish Government (excl. agencies),seoheo,37420,22.88,SEO/HEO
+Scottish Government (excl. agencies),eo,27350,16.72,EO
+Scottish Government (excl. agencies),aoaa,22560,13.79,AO/AA
+Scottish Government (excl. agencies),total,37420,22.88,Unknown
+Accountant in Bankruptcy,scs,NA,NA,SCS
+Accountant in Bankruptcy,g6g7,59230,36.22,Grade 6/Grade 7
+Accountant in Bankruptcy,seoheo,34090,20.85,SEO/HEO
+Accountant in Bankruptcy,eo,28340,17.33,EO
+Accountant in Bankruptcy,aoaa,21480,13.13,AO/AA
+Accountant in Bankruptcy,total,28340,17.33,Unknown
+Crown Office and Procurator Fiscal Service,scs,80810,49.41,SCS
+Crown Office and Procurator Fiscal Service,g6g7,66480,40.65,Grade 6/Grade 7
+Crown Office and Procurator Fiscal Service,seoheo,37160,22.72,SEO/HEO
+Crown Office and Procurator Fiscal Service,eo,25800,15.78,EO
+Crown Office and Procurator Fiscal Service,aoaa,21470,13.13,AO/AA
+Crown Office and Procurator Fiscal Service,total,28190,17.24,Unknown
+Disclosure Scotland,scs,NA,NA,SCS
+Disclosure Scotland,g6g7,60710,37.12,Grade 6/Grade 7
+Disclosure Scotland,seoheo,34090,20.85,SEO/HEO
+Disclosure Scotland,eo,28340,17.33,EO
+Disclosure Scotland,aoaa,21480,13.13,AO/AA
+Disclosure Scotland,total,22560,13.79,Unknown
+Education Scotland,scs,80810,49.41,SCS
+Education Scotland,g6g7,66350,40.57,Grade 6/Grade 7
+Education Scotland,seoheo,37760,23.09,SEO/HEO
+Education Scotland,eo,28340,17.33,EO
+Education Scotland,aoaa,21480,13.13,AO/AA
+Education Scotland,total,62190,38.03,Unknown
+Food Standards Scotland,scs,NA,NA,SCS
+Food Standards Scotland,g6g7,59230,36.22,Grade 6/Grade 7
+Food Standards Scotland,seoheo,34090,20.85,SEO/HEO
+Food Standards Scotland,eo,28340,17.33,EO
+Food Standards Scotland,aoaa,21480,13.13,AO/AA
+Food Standards Scotland,total,30000,18.34,Unknown
+Forestry and Land Scotland7,scs,NA,NA,SCS
+Forestry and Land Scotland7,g6g7,53310,32.6,Grade 6/Grade 7
+Forestry and Land Scotland7,seoheo,37330,22.83,SEO/HEO
+Forestry and Land Scotland7,eo,29280,17.9,EO
+Forestry and Land Scotland7,aoaa,24390,14.91,AO/AA
+Forestry and Land Scotland7,total,28290,17.3,Unknown
+National Records of Scotland,scs,NA,NA,SCS
+National Records of Scotland,g6g7,59230,36.22,Grade 6/Grade 7
+National Records of Scotland,seoheo,37420,22.88,SEO/HEO
+National Records of Scotland,eo,27350,16.72,EO
+National Records of Scotland,aoaa,21480,13.13,AO/AA
+National Records of Scotland,total,29760,18.2,Unknown
+Office of the Scottish Charity Regulator,scs,NA,NA,SCS
+Office of the Scottish Charity Regulator,g6g7,59230,36.22,Grade 6/Grade 7
+Office of the Scottish Charity Regulator,seoheo,38510,23.55,SEO/HEO
+Office of the Scottish Charity Regulator,eo,26860,16.42,EO
+Office of the Scottish Charity Regulator,aoaa,22560,13.79,AO/AA
+Office of the Scottish Charity Regulator,total,31920,19.52,Unknown
+Registers of Scotland,scs,79000,48.31,SCS
+Registers of Scotland,g6g7,58870,36,Grade 6/Grade 7
+Registers of Scotland,seoheo,35710,21.84,SEO/HEO
+Registers of Scotland,eo,29210,17.86,EO
+Registers of Scotland,aoaa,23380,14.3,AO/AA
+Registers of Scotland,total,29210,17.86,Unknown
+Revenue Scotland,scs,NA,NA,SCS
+Revenue Scotland,g6g7,59230,36.22,Grade 6/Grade 7
+Revenue Scotland,seoheo,34640,21.18,SEO/HEO
+Revenue Scotland,eo,27350,16.72,EO
+Revenue Scotland,aoaa,23360,14.28,AO/AA
+Revenue Scotland,total,34090,20.85,Unknown
+Scottish Courts and Tribunals Service,scs,80810,49.41,SCS
+Scottish Courts and Tribunals Service,g6g7,58470,35.75,Grade 6/Grade 7
+Scottish Courts and Tribunals Service,seoheo,34210,20.92,SEO/HEO
+Scottish Courts and Tribunals Service,eo,28490,17.42,EO
+Scottish Courts and Tribunals Service,aoaa,22070,13.5,AO/AA
+Scottish Courts and Tribunals Service,total,22070,13.5,Unknown
+Scottish Fiscal Commission,scs,NA,NA,SCS
+Scottish Fiscal Commission,g6g7,59230,36.22,Grade 6/Grade 7
+Scottish Fiscal Commission,seoheo,31920,19.52,SEO/HEO
+Scottish Fiscal Commission,eo,NA,NA,EO
+Scottish Fiscal Commission,aoaa,NA,NA,AO/AA
+Scottish Fiscal Commission,total,45240,27.66,Unknown
+Scottish Forestry8,scs,NA,NA,SCS
+Scottish Forestry8,g6g7,56900,34.79,Grade 6/Grade 7
+Scottish Forestry8,seoheo,37330,22.83,SEO/HEO
+Scottish Forestry8,eo,28290,17.3,EO
+Scottish Forestry8,aoaa,22170,13.56,AO/AA
+Scottish Forestry8,total,33150,20.27,Unknown
+Scottish Housing Regulator,scs,NA,NA,SCS
+Scottish Housing Regulator,g6g7,59230,36.22,Grade 6/Grade 7
+Scottish Housing Regulator,seoheo,45240,27.66,SEO/HEO
+Scottish Housing Regulator,eo,NA,NA,EO
+Scottish Housing Regulator,aoaa,NA,NA,AO/AA
+Scottish Housing Regulator,total,48370,29.58,Unknown
+Scottish Prison Service,scs,NA,NA,SCS
+Scottish Prison Service,g6g7,53430,32.67,Grade 6/Grade 7
+Scottish Prison Service,seoheo,38350,23.45,SEO/HEO
+Scottish Prison Service,eo,32360,19.79,EO
+Scottish Prison Service,aoaa,24870,15.21,AO/AA
+Scottish Prison Service,total,32360,19.79,Unknown
+Scottish Public Pensions Agency,scs,NA,NA,SCS
+Scottish Public Pensions Agency,g6g7,59230,36.22,Grade 6/Grade 7
+Scottish Public Pensions Agency,seoheo,34090,20.85,SEO/HEO
+Scottish Public Pensions Agency,eo,28340,17.33,EO
+Scottish Public Pensions Agency,aoaa,22560,13.79,AO/AA
+Scottish Public Pensions Agency,total,22560,13.79,Unknown
+Social Security Scotland,scs,NA,NA,SCS
+Social Security Scotland,g6g7,54490,33.32,Grade 6/Grade 7
+Social Security Scotland,seoheo,31200,19.08,SEO/HEO
+Social Security Scotland,eo,25370,15.51,EO
+Social Security Scotland,aoaa,20400,12.47,AO/AA
+Social Security Scotland,total,25370,15.51,Unknown
+Student Awards Agency for Scotland,scs,NA,NA,SCS
+Student Awards Agency for Scotland,g6g7,58490,35.76,Grade 6/Grade 7
+Student Awards Agency for Scotland,seoheo,38090,23.29,SEO/HEO
+Student Awards Agency for Scotland,eo,28340,17.33,EO
+Student Awards Agency for Scotland,aoaa,21480,13.13,AO/AA
+Student Awards Agency for Scotland,total,24160,14.77,Unknown
+Transport Scotland,scs,76520,46.79,SCS
+Transport Scotland,g6g7,60490,36.99,Grade 6/Grade 7
+Transport Scotland,seoheo,37420,22.88,SEO/HEO
+Transport Scotland,eo,27350,16.72,EO
+Transport Scotland,aoaa,21480,13.13,AO/AA
+Transport Scotland,total,38510,23.55,Unknown
+Department for Transport (excl. agencies),scs,81210,49.66,SCS
+Department for Transport (excl. agencies),g6g7,56130,34.32,Grade 6/Grade 7
+Department for Transport (excl. agencies),seoheo,37250,22.78,SEO/HEO
+Department for Transport (excl. agencies),eo,29640,18.12,EO
+Department for Transport (excl. agencies),aoaa,25230,15.43,AO/AA
+Department for Transport (excl. agencies),total,43120,26.37,Unknown
+Driver and Vehicle Licensing Agency,scs,86500,52.89,SCS
+Driver and Vehicle Licensing Agency,g6g7,57870,35.39,Grade 6/Grade 7
+Driver and Vehicle Licensing Agency,seoheo,32690,19.99,SEO/HEO
+Driver and Vehicle Licensing Agency,eo,26130,15.98,EO
+Driver and Vehicle Licensing Agency,aoaa,21170,12.94,AO/AA
+Driver and Vehicle Licensing Agency,total,21170,12.94,Unknown
+Driver and Vehicle Standards Agency,scs,92410,56.51,SCS
+Driver and Vehicle Standards Agency,g6g7,51700,31.61,Grade 6/Grade 7
+Driver and Vehicle Standards Agency,seoheo,32690,19.99,SEO/HEO
+Driver and Vehicle Standards Agency,eo,26380,16.13,EO
+Driver and Vehicle Standards Agency,aoaa,21170,12.94,AO/AA
+Driver and Vehicle Standards Agency,total,26380,16.13,Unknown
+Maritime and Coastguard Agency,scs,88420,54.07,SCS
+Maritime and Coastguard Agency,g6g7,54240,33.17,Grade 6/Grade 7
+Maritime and Coastguard Agency,seoheo,37800,23.11,SEO/HEO
+Maritime and Coastguard Agency,eo,26030,15.92,EO
+Maritime and Coastguard Agency,aoaa,21170,12.94,AO/AA
+Maritime and Coastguard Agency,total,30130,18.42,Unknown
+Vehicle Certification Agency,scs,NA,NA,SCS
+Vehicle Certification Agency,g6g7,60830,37.2,Grade 6/Grade 7
+Vehicle Certification Agency,seoheo,36000,22.01,SEO/HEO
+Vehicle Certification Agency,eo,26690,16.32,EO
+Vehicle Certification Agency,aoaa,21170,12.94,AO/AA
+Vehicle Certification Agency,total,33940,20.75,Unknown
+United Kingdom Statistics Authority,scs,76640,46.86,SCS
+United Kingdom Statistics Authority,g6g7,50090,30.63,Grade 6/Grade 7
+United Kingdom Statistics Authority,seoheo,32540,19.9,SEO/HEO
+United Kingdom Statistics Authority,eo,23520,14.38,EO
+United Kingdom Statistics Authority,aoaa,19520,11.94,AO/AA
+United Kingdom Statistics Authority,total,29540,18.06,Unknown
+UK Export Finance,scs,105280,64.38,SCS
+UK Export Finance,g6g7,68970,42.17,Grade 6/Grade 7
+UK Export Finance,seoheo,40890,25,SEO/HEO
+UK Export Finance,eo,28500,17.43,EO
+UK Export Finance,aoaa,24990,15.28,AO/AA
+UK Export Finance,total,47450,29.01,Unknown
+UK Supreme Court,scs,NA,NA,SCS
+UK Supreme Court,g6g7,56360,34.46,Grade 6/Grade 7
+UK Supreme Court,seoheo,36500,22.32,SEO/HEO
+UK Supreme Court,eo,27360,16.73,EO
+UK Supreme Court,aoaa,NA,NA,AO/AA
+UK Supreme Court,total,34470,21.08,Unknown
+Wales Office,scs,73170,44.74,SCS
+Wales Office,g6g7,57440,35.12,Grade 6/Grade 7
+Wales Office,seoheo,30850,18.86,SEO/HEO
+Wales Office,eo,NA,NA,EO
+Wales Office,aoaa,NA,NA,AO/AA
+Wales Office,total,40880,25,Unknown
+Water Services Regulation Authority,scs,122700,75.03,SCS
+Water Services Regulation Authority,g6g7,77320,47.28,Grade 6/Grade 7
+Water Services Regulation Authority,seoheo,42980,26.28,SEO/HEO
+Water Services Regulation Authority,eo,28000,17.12,EO
+Water Services Regulation Authority,aoaa,19000,11.62,AO/AA
+Water Services Regulation Authority,total,47000,28.74,Unknown
+Welsh Government,scs,80200,49.04,SCS
+Welsh Government,g6g7,59350,36.29,Grade 6/Grade 7
+Welsh Government,seoheo,36500,22.32,SEO/HEO
+Welsh Government,eo,28150,17.21,EO
+Welsh Government,aoaa,23250,14.22,AO/AA
+Welsh Government,total,36500,22.32,Unknown
+Welsh Revenue Authority,scs,NA,NA,SCS
+Welsh Revenue Authority,g6g7,57990,35.46,Grade 6/Grade 7
+Welsh Revenue Authority,seoheo,40550,24.8,SEO/HEO
+Welsh Revenue Authority,eo,25030,15.31,EO
+Welsh Revenue Authority,aoaa,20810,12.72,AO/AA
+Welsh Revenue Authority,total,40550,24.8,Unknown
+Department for Work and Pensions,scs,79410,48.56,SCS
+Department for Work and Pensions,g6g7,52750,32.26,Grade 6/Grade 7
+Department for Work and Pensions,seoheo,33450,20.45,SEO/HEO
+Department for Work and Pensions,eo,26890,16.44,EO
+Department for Work and Pensions,aoaa,20500,12.54,AO/AA
+Department for Work and Pensions,total,26890,16.44,Unknown
+Health and Safety Executive,scs,82830,50.65,SCS
+Health and Safety Executive,g6g7,57680,35.27,Grade 6/Grade 7
+Health and Safety Executive,seoheo,42640,26.07,SEO/HEO
+Health and Safety Executive,eo,28250,17.27,EO
+Health and Safety Executive,aoaa,21640,13.23,AO/AA
+Health and Safety Executive,total,39090,23.9,Unknown
+All employees,scs,81440,49.8,SCS
+All employees,g6g7,56020,34.25,Grade 6/Grade 7
+All employees,seoheo,35110,21.47,SEO/HEO
+All employees,eo,26890,16.44,EO
+All employees,aoaa,20500,12.54,AO/AA
+All employees,total,28180,17.23,Unknown

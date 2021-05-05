@@ -1,0 +1,91 @@
+region,grade,ratio
+North East,scs,1.0154715127701375
+North East,g6g7,0.9112816851124599
+North East,seoheo,0.923668470521219
+North East,eo,1
+North East,aoaa,1
+North East,total,0.8807665010645848
+North West,scs,1.0297151277013752
+North West,g6g7,0.9275258836129954
+North West,seoheo,0.9339219595556821
+North West,eo,1
+North West,aoaa,1
+North West,total,0.910929737402413
+Yorkshire and The Humber,scs,0.9788801571709234
+Yorkshire and The Humber,g6g7,0.9296679757229561
+Yorkshire and The Humber,seoheo,0.9527200227855311
+Yorkshire and The Humber,eo,0.9933060617329862
+Yorkshire and The Humber,aoaa,1
+Yorkshire and The Humber,total,0.9542228530872959
+East Midlands,scs,1.0591846758349706
+East Midlands,g6g7,0.9480542663334524
+East Midlands,seoheo,0.951011107946454
+East Midlands,eo,1
+East Midlands,aoaa,1
+East Midlands,total,0.9304471256210078
+West Midlands,scs,1.1151768172888015
+West Midlands,g6g7,0.9480542663334524
+West Midlands,seoheo,0.9527200227855311
+West Midlands,eo,1
+West Midlands,aoaa,1
+West Midlands,total,0.9542228530872959
+East of England,scs,1.1763261296660117
+East of England,g6g7,0.958764726883256
+East of England,seoheo,0.9777841070919966
+East of England,eo,1
+East of England,aoaa,1.0253658536585366
+East of England,total,0.9769339957416607
+London,scs,1.0035609037328095
+London,g6g7,1.0253480899678686
+London,seoheo,1.0538308174309314
+London,eo,1.070658237262923
+London,aoaa,1.193170731707317
+London,total,1.28388928317956
+South East,scs,1.1033889980353635
+South East,g6g7,0.9480542663334524
+South East,seoheo,0.982626032469382
+South East,eo,1
+South East,aoaa,1.0326829268292683
+South East,total,0.9882895670688432
+South West,scs,1.094425343811395
+South West,g6g7,0.9480542663334524
+South West,seoheo,0.9925947023639988
+South West,eo,0.9657865377463741
+South West,aoaa,1
+South West,total,1.0777146912704045
+England,scs,1.0157170923379175
+England,g6g7,0.9933952159942877
+England,seoheo,1
+England,eo,1
+England,aoaa,1.0034146341463415
+England,total,1.016678495386799
+Wales,scs,0.9695481335952849
+Wales,g6g7,1.0539093181006782
+Wales,seoheo,1.0395898604386216
+Wales,eo,0.9988843436221644
+Wales,aoaa,1
+Wales,total,0.9272533711852378
+Scotland,scs,0.9922642436149313
+Scotland,g6g7,1.0573009639414495
+Scotland,seoheo,0.9954428937624609
+Scotland,eo,1
+Scotland,aoaa,1
+Scotland,total,0.9542228530872959
+Northern Ireland,scs,0.9452357563850687
+Northern Ireland,g6g7,0.9112816851124599
+Northern Ireland,seoheo,0.8994588436342922
+Northern Ireland,eo,0.9230197099293418
+Northern Ireland,aoaa,0.9536585365853658
+Northern Ireland,total,0.8807665010645848
+Overseas,scs,0.9151522593320236
+Overseas,g6g7,1.0064262763298821
+Overseas,seoheo,0.9803474793506124
+Overseas,eo,0.991074748977315
+Overseas,aoaa,1.1
+Overseas,total,1.4410929737402414
+All employees,scs,1
+All employees,g6g7,1
+All employees,seoheo,1
+All employees,eo,1
+All employees,aoaa,1
+All employees,total,1
