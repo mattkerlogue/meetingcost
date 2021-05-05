@@ -1,6 +1,6 @@
 # HMG Meeting Cost Calculator
 
-The *HMG Meeting Cost Calculator* is an unofficial calculator for estimating the cost of Civil Service meetings.
+The *HMG Meeting Cost Calculator* is an unofficial calculator for estimating the cost of Civil Service meetings. Use the calculator by [launching the Shiny app](https://lapsedgeographer.shinyapps.io/meetingcost/).
 
 It uses published data from the [Civil Service Statistics 2020](https://www.gov.uk/government/statistics/civil-service-statistics-2020) on salary levels to estimate the hourly rate of UK civil servants by department and grade. It is purely for illustrative purposes and may not reflect the true costs of the meeting as other factors (e.g. length of service, profession, location) have a strong influence on individual salaries. Similarly variations in contractual arrangements (working hours, annual leave allowance) might result in an individual having longer or shorter working hours than has been assumed which will affect the calculation of the hourly rate from annual salary figures.
 
@@ -14,6 +14,6 @@ The fundamental unit in the calculations is an estimated hourly rate for civil s
 
 This estimate is purely indicative and unlikely to be representative of any particular individual as several factors (e.g. length of service, profession,location, etc) will influence their salary, while contractual arrangements will mean they have longer or shorter annual working hours than the figure used for the calculation.
 
-## Build
-The calculator is built in [`R`](https://www.r-project.org) and [`{shiny}`](https://shiny.rstudio.com).
+## Build & hosting
+The calculator is built in [`R`](https://www.r-project.org) and [`{shiny}`](https://shiny.rstudio.com). The app is hosted by [Shinyapps](https://www.shinyapps.io/).
 
