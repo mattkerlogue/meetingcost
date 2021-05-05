@@ -64,10 +64,12 @@ ui <- navbarPage(
                      "'rate' for the meeting (the cost of each minute).</p>",
                      "<p>This is purely for illustrative purposes and may not reflect the true costs ",
                      "of the meeting as other factors (e.g. length of service, profession, location),",
-                     "have a strong influence on individual salaries. Similarly variations in contractual",
-                     "arrangements (working hours, annual leave allowance) might result in an ",
-                     "individual having longer or shorter working hours than has been assumed ",
-                     "which will affect the calculation of the hourly rate from annual salary figures.</p>"),
+                     "have a strong influence on individual salaries. It also does not account for any",
+                     "non-salary costs (e.g. room hire, hospitality, IT/administrative services).",
+                     "Similarly variations in contractual arrangements (working hours, ",
+                     "annual leave allowance) might result in an individual having longer or ",
+                     "shorter working hours than has been assumed which will affect the calculation ",
+                     "of the hourly rate from annual salary figures.</p>"),
                 DT::DTOutput("attendees")
             )
         )
@@ -106,7 +108,7 @@ ui <- navbarPage(
                   "The published statistics only provide annual salaries, therefore an estimate ",
                   "must be calculated. The estimate is calculated by assuming that the median salary ",
                   "is for a full-time employee and they work a 37 hour week and have 30 days annual leave ",
-                  "plus 8 public holidays and 1 privelige day (1635.4 working hours per year)."),
+                  "plus 8 public holidays and 1 privilege day (1635.4 working hours per year)."),
                 p("This estimate is purely indicative and unlikely to be representative of ",
                   "any particular individual as several factors (e.g. length of service, profession,",
                   "location, etc) will influence their salary, while contractual arrangements will ",
@@ -114,8 +116,8 @@ ui <- navbarPage(
                   "the calculation."),
                 h2("Build"),
                 p("The calculator is built in ", a(href="https://www.r-project.org", "R"), 
-                  " and ", a(href="https://shiny.rstudio.com", "{shiny}"), "The code is ",
-                  "available on ", a(href="", "Github"), ".")
+                  " and ", a(href="https://shiny.rstudio.com", "{shiny},"), "the code is ",
+                  "available on ", a(href="", "Github."))
             )
         )
     )
