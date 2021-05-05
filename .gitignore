@@ -41,5 +41,11 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
+# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
+rsconnect/
+
+# Mac system files
+.DS_Store
+
 # repo files
 cs_stats_2020.ods
